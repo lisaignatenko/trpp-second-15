@@ -1,9 +1,8 @@
-package ru.mirea.trpp_second_5.controllers;
+package ru.mirea.trpp_second_15.controllers;
 
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
-import java.util.List;
 
 /** Проверка состояния сервера. */
 @Controller()

@@ -1,10 +1,10 @@
-package ru.mirea.trpp_second_5.controllers;
+package ru.mirea.trpp_second_15.controllers;
 
 import com.opencsv.bean.CsvToBeanBuilder;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
-import ru.mirea.trpp_second_5.entity.Receipt;
+import ru.mirea.trpp_second_15.entity.Receipt;
 
 import java.io.InputStreamReader;
 import java.util.List;
